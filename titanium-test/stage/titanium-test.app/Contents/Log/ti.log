@@ -1,0 +1,56 @@
+[2008-12-31 10:53:29 -0500] <0x128790 TiController.m:(106)> TiController::init = 128790
+[2008-12-31 10:53:30 -0500] <0x128790 TiController.m:(518)> application ID: 2d5781e0-b8e6-012b-933e-001b63ae616a
+[2008-12-31 10:53:30 -0500] <0x128790 TiController.m:(415)> Tiapp.xml found at /Users/coj/Applications/titanium-test/stage/titanium-test.app/Contents/Resources/tiapp.xml
+[2008-12-31 10:53:30 -0500] <0x128790 TiController.m:(420)> Tiapp.xml URL is file://localhost/Users/coj/Applications/titanium-test/stage/titanium-test.app/Contents/Resources/tiapp.xml
+[2008-12-31 10:53:30 -0500] <0x128790 TiController.m:(440)> Loading tiapp.xml - found appname = sample_app, version = 0.1, id = com.titaniumapp.sample_app, updateurl = http://updatesite.titaniumapp.com
+[2008-12-31 10:53:30 -0500] <0x128790 TiController.m:(464)> initial window: 800.000000x540.000000, min: 0.000000x0.000000, max: 9000.000000x9000.000000
+
+[2008-12-31 10:53:30 -0500] <0x1d8490 TiWindowConfig.m:(50)> TiWindowConfig: alloc
+
+[2008-12-31 10:53:30 -0500] <0x128790 TiController.m:(271)> TiController::awakeFromNib = 128790
+[2008-12-31 10:53:30 -0500] <0x128790 TiController.m:(272)> gears titanium plugin has been loaded? true
+[2008-12-31 10:53:30 -0500] <0x128790 TiController.m:(317)> TiController::applicationDidFinishLaunching
+[2008-12-31 10:53:30 -0500] <0x128790 TiController.m:(344)> my new url: app://com.titaniumapp.sample_app/index.html
+[2008-12-31 10:53:30 -0500] <0x128790 TiController.m:(293)> TiController::createDocument for url: app://com.titaniumapp.sample_app/index.html
+[2008-12-31 10:53:30 -0500] <0x1d8490 TiWindowConfig.m:(321)> a=/index.html, b=/index.html, matches=1
+[2008-12-31 10:53:30 -0500] <0x128790 TiController.m:(303)> TiController::createDocument - using pending config named: initial
+[2008-12-31 10:53:30 -0500] <0x1f0d60 TiDocument.m:(40)> TiDocument::init = 1f0d60
+[2008-12-31 10:53:30 -0500] <0x1f2050 TiWindow.m:(34)> TiWindow::initWithContentRect=1f2050
+[2008-12-31 10:53:30 -0500] <0x1f0d60 TiDocument.m:(219)> TiDocument::windowControllerDidLoadNib 1f0d60
+[2008-12-31 10:53:30 -0500] <0x129800 TiUserWindow.m:(42)> TiUserWindow::initWithWindow = 129800
+[2008-12-31 10:53:30 -0500] <0x1f0d60 TiDocument.m:(178)> TiDocument::customizeWebView = 1f0d60
+[2008-12-31 10:53:30 -0500] <0x1f0d60 TiDocument.m:(147)> TiDocument::setupWebPreferences 1f0d60
+[2008-12-31 10:53:30 -0500] <0x1f0d60 TiDocument.m:(162)> TiDocument::setupWebPreferences exit 1f0d60
+[2008-12-31 10:53:30 -0500] <0x1f0d60 TiDocument.m:(142)> TiDocument::customizeUserAgent set to: Titanium/0.1 for 1f0d60
+[2008-12-31 10:53:30 -0500] <0x1f0d60 TiDocument.m:(129)> TiDocument::loadURL=>app://com.titaniumapp.sample_app/index.html, webview=1f9c30
+[2008-12-31 10:53:30 -0500] <0x1f0d60 TiDocument.m:(443)> Attempting to navigate to the same URL: app://com.titaniumapp.sample_app/index.html
+[2008-12-31 10:53:30 -0500] <0x137450 AppProtocol.m:(146)> AppProtocol::startLoading: app://com.titaniumapp.sample_app/index.html, s:/index.html
+[2008-12-31 10:53:30 -0500] <0x137450 AppProtocol.m:(160)> trying to load from: /Users/coj/Applications/titanium-test/stage/titanium-test.app/Contents/Resources/index.html, base: /Users/coj/Applications/titanium-test/stage/titanium-test.app/Contents/Resources
+[2008-12-31 10:53:30 -0500] <0x137450 AppProtocol.m:(196)> loaded mime=text/html from extension=html
+[2008-12-31 10:53:30 -0500] <0x137450 AppProtocol.m:(209)> AppProtocol::stopLoading
+[2008-12-31 10:53:30 -0500] <0x1f0d60 TiDocument.m:(603)> TiDocument::didClearWindowObject = 1f0d60
+[2008-12-31 10:53:30 -0500] <0x13d1a180 TiWindowFactory.m:(30)> TiWindowFactory::initWithWindow: 13d1a180
+[2008-12-31 10:53:30 -0500] <0x13d1a5d0 TiNetwork.m:(107)> Network connectivity change detected - online: 0
+[2008-12-31 10:53:30 -0500] <0x13d19ba0 TiApp.m:(87)> attempting to include ti://titanium.js
+
+[2008-12-31 10:53:30 -0500] <0x13d1bab0 TiProtocol.m:(149)> resolving url ti://titanium.js to path: /Users/coj/Applications/titanium-test/stage/titanium-test.app/Contents/Resources/titanium/titanium.js
+
+[2008-12-31 10:53:30 -0500] <0x1f0d60 TiDocument.m:(832)> loading javascript from app://com.titaniumapp.sample_app/index.html with sid: 2
+[2008-12-31 10:53:30 -0500] <0x13d19ba0 TiApp.m:(117)> Gears plugin loaded. Awesome!
+
+[2008-12-31 10:53:30 -0500] <0x13d19ba0 TiApp.m:(117)> last time we checked for update in seconds: 65962.871
+
+[2008-12-31 10:53:30 -0500] <0x13d19ba0 TiApp.m:(117)> Update check will occur in 3.164 seconds
+
+[2008-12-31 10:53:30 -0500] <0x1f0d60 TiDocument.m:(832)> loading javascript from (null) with sid: 3
+[2008-12-31 10:53:30 -0500] <0x1f0d60 TiDocument.m:(552)> TiDocument::didFinishLoadForFrame: 1f0d60 for url: app://com.titaniumapp.sample_app/index.html
+[2008-12-31 10:53:30 -0500] <0x1f0d60 TiDocument.m:(172)> TiDocument::show = 1f0d60
+[2008-12-31 10:53:30 -0500] <0x13d1a5d0 TiNetwork.m:(107)> Network connectivity change detected - online: 1
+[2008-12-31 10:53:33 -0500] <0x13d19ba0 TiApp.m:(117)> exception returned from update server: error, error: undefined
+
+[2008-12-31 10:54:02 -0500] <0x1f0d60 TiDocument.m:(238)> TiDocument::close = 1f0d60
+[2008-12-31 10:54:02 -0500] <0x1f0d60 TiDocument.m:(48)> TiDocument::dealloc =1f0d60
+[2008-12-31 10:54:02 -0500] <0x129800 TiUserWindow.m:(228)> TiUserWindow::destroy 129800
+[2008-12-31 10:54:02 -0500] <0x129800 TiUserWindow.m:(237)> TiUserWindow::close 129800
+[2008-12-31 10:54:02 -0500] <0x1f0d60 TiDocument.m:(53)> TiDocument::dealloc = 1f0d60, child windows = 0
+[2008-12-31 10:54:02 -0500] <0x1f0d60 TiDocument.m:(74)> Last application window has closed, exiting the application

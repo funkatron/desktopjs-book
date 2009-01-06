@@ -1,0 +1,176 @@
+--- 
+- :name: cp
+  :state: 
+    :src: /Library/Appcelerator/lib/templates/COPYING
+    :dest: /Users/coj/Applications/titanium-test/COPYING
+    :exists: false
+- :name: cp
+  :state: 
+    :src: /Library/Appcelerator/lib/templates/README
+    :dest: /Users/coj/Applications/titanium-test/README
+    :exists: false
+- :name: mkdir
+  :state: 
+    :path: /Users/coj/Applications/titanium-test/public
+    :exists: true
+- :name: cp
+  :state: 
+    :src: /Users/coj/.appcelerator/releases/titanium/project/0.1/public/appcelerator.xml
+    :dest: /Users/coj/Applications/titanium-test/public/appcelerator.xml
+    :exists: false
+- :name: mkdir
+  :state: 
+    :path: /Users/coj/Applications/titanium-test/public/audio
+    :exists: false
+- :name: mkdir
+  :state: 
+    :path: /Users/coj/Applications/titanium-test/public/audio/.
+    :exists: true
+- :name: mkdir
+  :state: 
+    :path: /Users/coj/Applications/titanium-test/public/audio/..
+    :exists: true
+- :name: mkdir
+  :state: 
+    :path: /Users/coj/Applications/titanium-test/public/audio
+    :exists: true
+- :name: cp
+  :state: 
+    :src: /Users/coj/.appcelerator/releases/titanium/project/0.1/public/audio/On.mp3
+    :dest: /Users/coj/Applications/titanium-test/public/audio/On.mp3
+    :exists: false
+- :name: mkdir
+  :state: 
+    :path: /Users/coj/Applications/titanium-test/public/css
+    :exists: false
+- :name: mkdir
+  :state: 
+    :path: /Users/coj/Applications/titanium-test/public/css/.
+    :exists: true
+- :name: mkdir
+  :state: 
+    :path: /Users/coj/Applications/titanium-test/public/css/..
+    :exists: true
+- :name: mkdir
+  :state: 
+    :path: /Users/coj/Applications/titanium-test/public/css
+    :exists: true
+- :name: cp
+  :state: 
+    :src: /Users/coj/.appcelerator/releases/titanium/project/0.1/public/css/index.css
+    :dest: /Users/coj/Applications/titanium-test/public/css/index.css
+    :exists: false
+- :name: mkdir
+  :state: 
+    :path: /Users/coj/Applications/titanium-test/public/images
+    :exists: false
+- :name: mkdir
+  :state: 
+    :path: /Users/coj/Applications/titanium-test/public/images/.
+    :exists: true
+- :name: mkdir
+  :state: 
+    :path: /Users/coj/Applications/titanium-test/public/images/..
+    :exists: true
+- :name: mkdir
+  :state: 
+    :path: /Users/coj/Applications/titanium-test/public/images
+    :exists: true
+- :name: cp
+  :state: 
+    :src: /Users/coj/.appcelerator/releases/titanium/project/0.1/public/images/close.png
+    :dest: /Users/coj/Applications/titanium-test/public/images/close.png
+    :exists: false
+- :name: mkdir
+  :state: 
+    :path: /Users/coj/Applications/titanium-test/public/images
+    :exists: true
+- :name: cp
+  :state: 
+    :src: /Users/coj/.appcelerator/releases/titanium/project/0.1/public/images/logo.png
+    :dest: /Users/coj/Applications/titanium-test/public/images/logo.png
+    :exists: false
+- :name: mkdir
+  :state: 
+    :path: /Users/coj/Applications/titanium-test/public/images
+    :exists: true
+- :name: cp
+  :state: 
+    :src: /Users/coj/.appcelerator/releases/titanium/project/0.1/public/images/tray.ico
+    :dest: /Users/coj/Applications/titanium-test/public/images/tray.ico
+    :exists: false
+- :name: mkdir
+  :state: 
+    :path: /Users/coj/Applications/titanium-test/public/images
+    :exists: true
+- :name: cp
+  :state: 
+    :src: /Users/coj/.appcelerator/releases/titanium/project/0.1/public/images/tray.png
+    :dest: /Users/coj/Applications/titanium-test/public/images/tray.png
+    :exists: false
+- :name: mkdir
+  :state: 
+    :path: /Users/coj/Applications/titanium-test/public
+    :exists: true
+- :name: cp
+  :state: 
+    :src: /Users/coj/.appcelerator/releases/titanium/project/0.1/public/index.html
+    :dest: /Users/coj/Applications/titanium-test/public/index.html
+    :exists: false
+- :name: mkdir
+  :state: 
+    :path: /Users/coj/Applications/titanium-test/public/js
+    :exists: false
+- :name: mkdir
+  :state: 
+    :path: /Users/coj/Applications/titanium-test/public/js/.
+    :exists: true
+- :name: mkdir
+  :state: 
+    :path: /Users/coj/Applications/titanium-test/public/js/..
+    :exists: true
+- :name: mkdir
+  :state: 
+    :path: /Users/coj/Applications/titanium-test/public/js
+    :exists: true
+- :name: cp
+  :state: 
+    :src: /Users/coj/.appcelerator/releases/titanium/project/0.1/public/js/appcelerator-debug.js
+    :dest: /Users/coj/Applications/titanium-test/public/js/appcelerator-debug.js
+    :exists: false
+- :name: mkdir
+  :state: 
+    :path: /Users/coj/Applications/titanium-test/public/js
+    :exists: true
+- :name: cp
+  :state: 
+    :src: /Users/coj/.appcelerator/releases/titanium/project/0.1/public/js/appcelerator-lite.js
+    :dest: /Users/coj/Applications/titanium-test/public/js/appcelerator-lite.js
+    :exists: false
+- :name: mkdir
+  :state: 
+    :path: /Users/coj/Applications/titanium-test/public/js
+    :exists: true
+- :name: cp
+  :state: 
+    :src: /Users/coj/.appcelerator/releases/titanium/project/0.1/public/js/appcelerator.js
+    :dest: /Users/coj/Applications/titanium-test/public/js/appcelerator.js
+    :exists: false
+- :name: mkdir
+  :state: 
+    :path: /Users/coj/Applications/titanium-test/public/js
+    :exists: true
+- :name: cp
+  :state: 
+    :src: /Users/coj/.appcelerator/releases/titanium/project/0.1/public/js/index.js
+    :dest: /Users/coj/Applications/titanium-test/public/js/index.js
+    :exists: false
+- :name: mkdir
+  :state: 
+    :path: /Users/coj/Applications/titanium-test/public/js
+    :exists: true
+- :name: cp
+  :state: 
+    :src: /Users/coj/.appcelerator/releases/titanium/project/0.1/public/js/jquery-1.2.6.js
+    :dest: /Users/coj/Applications/titanium-test/public/js/jquery-1.2.6.js
+    :exists: false

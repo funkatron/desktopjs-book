@@ -1,0 +1,4 @@
+--- 
+:time: 2008-12-30 16:24:34.650349 -05:00
+:count: 40
+:cmdline: create:project . titanium-test titanium --home="/Users/coj/.appcelerator" --system="/Library/Appcelerator"

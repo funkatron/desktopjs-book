@@ -1,0 +1,62 @@
+Tue Dec 30 16:24:34 -0500 2008 => begin transaction
+Tue Dec 30 16:24:34 -0500 2008 => recording cp, args=/Library/Appcelerator/lib/templates/COPYING,/Users/coj/Applications/titanium-test/COPYING
+Tue Dec 30 16:24:34 -0500 2008 => recording cp, args=/Library/Appcelerator/lib/templates/README,/Users/coj/Applications/titanium-test/README
+Tue Dec 30 16:24:34 -0500 2008 => recording mkdir, args=/Users/coj/Applications/titanium-test/public
+Tue Dec 30 16:24:34 -0500 2008 => recording cp, args=/Users/coj/.appcelerator/releases/titanium/project/0.1/public/appcelerator.xml,/Users/coj/Applications/titanium-test/public/appcelerator.xml
+Tue Dec 30 16:24:34 -0500 2008 => recording mkdir, args=/Users/coj/Applications/titanium-test/public/audio
+Tue Dec 30 16:24:34 -0500 2008 => recording mkdir, args=/Users/coj/Applications/titanium-test/public/audio/.
+Tue Dec 30 16:24:34 -0500 2008 => recording mkdir, args=/Users/coj/Applications/titanium-test/public/audio/..
+Tue Dec 30 16:24:34 -0500 2008 => recording mkdir, args=/Users/coj/Applications/titanium-test/public/audio
+Tue Dec 30 16:24:34 -0500 2008 => recording cp, args=/Users/coj/.appcelerator/releases/titanium/project/0.1/public/audio/On.mp3,/Users/coj/Applications/titanium-test/public/audio/On.mp3
+Tue Dec 30 16:24:34 -0500 2008 => recording mkdir, args=/Users/coj/Applications/titanium-test/public/css
+Tue Dec 30 16:24:34 -0500 2008 => recording mkdir, args=/Users/coj/Applications/titanium-test/public/css/.
+Tue Dec 30 16:24:34 -0500 2008 => recording mkdir, args=/Users/coj/Applications/titanium-test/public/css/..
+Tue Dec 30 16:24:34 -0500 2008 => recording mkdir, args=/Users/coj/Applications/titanium-test/public/css
+Tue Dec 30 16:24:34 -0500 2008 => recording cp, args=/Users/coj/.appcelerator/releases/titanium/project/0.1/public/css/index.css,/Users/coj/Applications/titanium-test/public/css/index.css
+Tue Dec 30 16:24:34 -0500 2008 => recording mkdir, args=/Users/coj/Applications/titanium-test/public/images
+Tue Dec 30 16:24:34 -0500 2008 => recording mkdir, args=/Users/coj/Applications/titanium-test/public/images/.
+Tue Dec 30 16:24:34 -0500 2008 => recording mkdir, args=/Users/coj/Applications/titanium-test/public/images/..
+Tue Dec 30 16:24:34 -0500 2008 => recording mkdir, args=/Users/coj/Applications/titanium-test/public/images
+Tue Dec 30 16:24:34 -0500 2008 => recording cp, args=/Users/coj/.appcelerator/releases/titanium/project/0.1/public/images/close.png,/Users/coj/Applications/titanium-test/public/images/close.png
+Tue Dec 30 16:24:34 -0500 2008 => recording mkdir, args=/Users/coj/Applications/titanium-test/public/images
+Tue Dec 30 16:24:34 -0500 2008 => recording cp, args=/Users/coj/.appcelerator/releases/titanium/project/0.1/public/images/logo.png,/Users/coj/Applications/titanium-test/public/images/logo.png
+Tue Dec 30 16:24:34 -0500 2008 => recording mkdir, args=/Users/coj/Applications/titanium-test/public/images
+Tue Dec 30 16:24:34 -0500 2008 => recording cp, args=/Users/coj/.appcelerator/releases/titanium/project/0.1/public/images/tray.ico,/Users/coj/Applications/titanium-test/public/images/tray.ico
+Tue Dec 30 16:24:34 -0500 2008 => recording mkdir, args=/Users/coj/Applications/titanium-test/public/images
+Tue Dec 30 16:24:34 -0500 2008 => recording cp, args=/Users/coj/.appcelerator/releases/titanium/project/0.1/public/images/tray.png,/Users/coj/Applications/titanium-test/public/images/tray.png
+Tue Dec 30 16:24:34 -0500 2008 => recording mkdir, args=/Users/coj/Applications/titanium-test/public
+Tue Dec 30 16:24:34 -0500 2008 => recording cp, args=/Users/coj/.appcelerator/releases/titanium/project/0.1/public/index.html,/Users/coj/Applications/titanium-test/public/index.html
+Tue Dec 30 16:24:34 -0500 2008 => recording mkdir, args=/Users/coj/Applications/titanium-test/public/js
+Tue Dec 30 16:24:34 -0500 2008 => recording mkdir, args=/Users/coj/Applications/titanium-test/public/js/.
+Tue Dec 30 16:24:34 -0500 2008 => recording mkdir, args=/Users/coj/Applications/titanium-test/public/js/..
+Tue Dec 30 16:24:34 -0500 2008 => recording mkdir, args=/Users/coj/Applications/titanium-test/public/js
+Tue Dec 30 16:24:34 -0500 2008 => recording cp, args=/Users/coj/.appcelerator/releases/titanium/project/0.1/public/js/appcelerator-debug.js,/Users/coj/Applications/titanium-test/public/js/appcelerator-debug.js
+Tue Dec 30 16:24:34 -0500 2008 => recording mkdir, args=/Users/coj/Applications/titanium-test/public/js
+Tue Dec 30 16:24:34 -0500 2008 => recording cp, args=/Users/coj/.appcelerator/releases/titanium/project/0.1/public/js/appcelerator-lite.js,/Users/coj/Applications/titanium-test/public/js/appcelerator-lite.js
+Tue Dec 30 16:24:34 -0500 2008 => recording mkdir, args=/Users/coj/Applications/titanium-test/public/js
+Tue Dec 30 16:24:34 -0500 2008 => recording cp, args=/Users/coj/.appcelerator/releases/titanium/project/0.1/public/js/appcelerator.js,/Users/coj/Applications/titanium-test/public/js/appcelerator.js
+Tue Dec 30 16:24:34 -0500 2008 => recording mkdir, args=/Users/coj/Applications/titanium-test/public/js
+Tue Dec 30 16:24:34 -0500 2008 => recording cp, args=/Users/coj/.appcelerator/releases/titanium/project/0.1/public/js/index.js,/Users/coj/Applications/titanium-test/public/js/index.js
+Tue Dec 30 16:24:34 -0500 2008 => recording mkdir, args=/Users/coj/Applications/titanium-test/public/js
+Tue Dec 30 16:24:34 -0500 2008 => recording cp, args=/Users/coj/.appcelerator/releases/titanium/project/0.1/public/js/jquery-1.2.6.js,/Users/coj/Applications/titanium-test/public/js/jquery-1.2.6.js
+Tue Dec 30 16:24:34 -0500 2008 => commit transaction begin (recordonly=false)
+Tue Dec 30 16:24:34 -0500 2008 => copy /Library/Appcelerator/lib/templates/COPYING to /Users/coj/Applications/titanium-test/COPYING
+Tue Dec 30 16:24:34 -0500 2008 => copy /Library/Appcelerator/lib/templates/README to /Users/coj/Applications/titanium-test/README
+Tue Dec 30 16:24:34 -0500 2008 => copy /Users/coj/.appcelerator/releases/titanium/project/0.1/public/appcelerator.xml to /Users/coj/Applications/titanium-test/public/appcelerator.xml
+Tue Dec 30 16:24:34 -0500 2008 => creating directory /Users/coj/Applications/titanium-test/public/audio
+Tue Dec 30 16:24:34 -0500 2008 => copy /Users/coj/.appcelerator/releases/titanium/project/0.1/public/audio/On.mp3 to /Users/coj/Applications/titanium-test/public/audio/On.mp3
+Tue Dec 30 16:24:34 -0500 2008 => creating directory /Users/coj/Applications/titanium-test/public/css
+Tue Dec 30 16:24:34 -0500 2008 => copy /Users/coj/.appcelerator/releases/titanium/project/0.1/public/css/index.css to /Users/coj/Applications/titanium-test/public/css/index.css
+Tue Dec 30 16:24:34 -0500 2008 => creating directory /Users/coj/Applications/titanium-test/public/images
+Tue Dec 30 16:24:34 -0500 2008 => copy /Users/coj/.appcelerator/releases/titanium/project/0.1/public/images/close.png to /Users/coj/Applications/titanium-test/public/images/close.png
+Tue Dec 30 16:24:34 -0500 2008 => copy /Users/coj/.appcelerator/releases/titanium/project/0.1/public/images/logo.png to /Users/coj/Applications/titanium-test/public/images/logo.png
+Tue Dec 30 16:24:34 -0500 2008 => copy /Users/coj/.appcelerator/releases/titanium/project/0.1/public/images/tray.ico to /Users/coj/Applications/titanium-test/public/images/tray.ico
+Tue Dec 30 16:24:34 -0500 2008 => copy /Users/coj/.appcelerator/releases/titanium/project/0.1/public/images/tray.png to /Users/coj/Applications/titanium-test/public/images/tray.png
+Tue Dec 30 16:24:34 -0500 2008 => copy /Users/coj/.appcelerator/releases/titanium/project/0.1/public/index.html to /Users/coj/Applications/titanium-test/public/index.html
+Tue Dec 30 16:24:34 -0500 2008 => creating directory /Users/coj/Applications/titanium-test/public/js
+Tue Dec 30 16:24:34 -0500 2008 => copy /Users/coj/.appcelerator/releases/titanium/project/0.1/public/js/appcelerator-debug.js to /Users/coj/Applications/titanium-test/public/js/appcelerator-debug.js
+Tue Dec 30 16:24:34 -0500 2008 => copy /Users/coj/.appcelerator/releases/titanium/project/0.1/public/js/appcelerator-lite.js to /Users/coj/Applications/titanium-test/public/js/appcelerator-lite.js
+Tue Dec 30 16:24:34 -0500 2008 => copy /Users/coj/.appcelerator/releases/titanium/project/0.1/public/js/appcelerator.js to /Users/coj/Applications/titanium-test/public/js/appcelerator.js
+Tue Dec 30 16:24:34 -0500 2008 => copy /Users/coj/.appcelerator/releases/titanium/project/0.1/public/js/index.js to /Users/coj/Applications/titanium-test/public/js/index.js
+Tue Dec 30 16:24:34 -0500 2008 => copy /Users/coj/.appcelerator/releases/titanium/project/0.1/public/js/jquery-1.2.6.js to /Users/coj/Applications/titanium-test/public/js/jquery-1.2.6.js
+Tue Dec 30 16:24:34 -0500 2008 => commit transaction completed (40)

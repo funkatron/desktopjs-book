@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns="http://ns.adobe.com/air/application/1.5">
+
+	<id>com.domain.app.air-test</id>
+
+	<!-- Used as the filename for the application. Required. -->
+	<filename>AIR-TEST</filename>
+
+	<version>v1</version>
+
+	<!-- Settings for the application's initial window. Required. -->
+	<initialWindow>
+		<content>index.html</content>
+		<visible>true</visible>
+	</initialWindow>
+
+</application>
